@@ -2,7 +2,7 @@
 # Cookbook Name:: oh_my_zsh
 # Recipe:: default
 #
-# Copyright 2014, Xavier Dutreilh
+# Copyright 2014-2015, Xavier Dutreilh
 #
 
 include_recipe 'git'
