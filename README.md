@@ -1,6 +1,6 @@
 # chef-oh-my-zsh Cookbook
 
-Installs [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+> Installs [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Attributes
 
